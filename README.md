@@ -1,0 +1,1 @@
+# django_show_Database_table_to_user
